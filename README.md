@@ -2,8 +2,6 @@
 
                              👀 I’m interested in solving problems and enhanching my programming knowledge
  
-                             🌱 I’m  an Electrical and Computer Engineering Graguate
- 
                              💞️ I’m looking to collaborate on creating websites as well as mobile apps 
 
                              📫 How to reach me dagiovoxo@gmail.com
