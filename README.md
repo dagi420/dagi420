@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.d10b18c651e6697c9d060f17d18e8406?rik=3tVQcegBQg3YPA&riu=http%3a%2f%2f24.media.tumblr.com%2f2022b70794a9b5ce899d38a5dadc020f%2ftumblr_mst8zw4pWD1rdu90go1_1280.gif&ehk=0f4ib%2bSs%2fDe6BdmC3w5UDN4i0P2c4X23%2fBaa3RUGoAw%3d&risl=&pid=ImgRaw&r=0)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Dagim</h1>
 <h3 align="center">A passionate Computer Enthusiastic.</h3>
 
