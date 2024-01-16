@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dagim</h1>
 <h3 align="center">A passionate Computer Enthusiastic.</h3>
-<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/007/742/912/original/circle-green-dots-isolated-on-the-black-background-geometric-art-design-element-for-frame-logo-tattoo-web-pages-prints-posters-template-abstract-backgrounds-optical-illusion-shape-vector.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dagi420&label=Profile%20views&color=0e75b6&style=flat" alt="dagi420" /> </p>
 
 - 🔭 I’m currently working on **Personal Projects**
 
