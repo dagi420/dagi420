@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Dagim</h1>
 <h3 align="center">A passionate Computer Enthusiastic.</h3>
 
-- 🔭 I’m currently working on **Personal Projects**
+- 🌱 I’m currently learning **Flutter*
 
-- 🌱 I’m currently learning **Flutter, MongoDb**
-
-- 👯 I’m looking to collaborate on **Web or Software development**
+- 👯 I’m looking to collaborate on **Web or Software development projects**
 
 - 📫 How to reach me **dagidaniel00@gmail.com**
 
